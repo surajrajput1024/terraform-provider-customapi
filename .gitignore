@@ -1,0 +1,13 @@
+.env
+.terraformrc
+
+test-workspace/terraform.tfstate
+test-workspace/terraform.tfstate.lock.info
+test-workspace/terraform.tfvars
+test-workspace/terraform.tfvars.json
+test-workspace/terraform.tfvars.json.lock
+test-workspace/terraform.tfvars.json.lock.info
+test-workspace/terraform.tfvars.json.lock.info
+
+
+
